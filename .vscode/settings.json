@@ -1,0 +1,22 @@
+{
+  "cSpell.words": ["mayajs", "vloggerstv"],
+  "conventionalCommits.scopes": [
+    "interface",
+    "services",
+    "settings",
+    "middlewares",
+    "constants",
+    "model",
+    "package",
+    "route",
+    "database",
+    "environments",
+    "services",
+    "controllers",
+    "module",
+    "validation",
+    "docs",
+    "env",
+    "auth"
+  ]
+}
