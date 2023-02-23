@@ -3,7 +3,8 @@
 
 ## How to run
 - Clone the repository 
-- Open the terminal of the project root and type "npm run start:dev"
+- Open the terminal of the project root and type "npm i" to install the needed package coming from the package.json file
+- After installing the packages, on the same terminal type "npm run start:dev"
 
 ## Notes
 - It's default port is 3000 but can be modified
